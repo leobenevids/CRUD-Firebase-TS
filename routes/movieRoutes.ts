@@ -1,4 +1,5 @@
 import { Router } from "express";
+
 import {
   addMovie,
   getAllMovies,
@@ -7,12 +8,16 @@ import {
   deleteMovie,
 } from "../controllers/movieController";
 
+// validations
+import { validate } from "../middleware/handleValidation";
+import { movieCreateValidation } from "../middleware/movieValidation";
+
 const router = Router();
 
-router.post("/movies", addMovie);
-router.get("/movies", getAllMovies);
+router.post("/movies", movieCreateValidation(), validate, addMovie);
 router.get("/movies/:id", getMovie);
-router.put("/movies/:id", updateMovie);
+router.get("/movies", getAllMovies);
 router.delete("/movies/:id", deleteMovie);
+router.put("/movies/:id", movieCreateValidation(), validate, updateMovie);
 
 export default { routes: router };

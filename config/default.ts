@@ -6,6 +6,7 @@ const {
   PORT,
   HOST,
   HOST_URL,
+  ENV,
   API_KEY,
   AUTH_DOMAIN,
   DATABASE_URL,
@@ -18,6 +19,7 @@ const {
 assert(PORT, "PORT is required");
 assert(HOST, "HOST is required");
 
+// Firebase Configuration
 const firebaseConfig = {
   apiKey: API_KEY,
   authDomain: AUTH_DOMAIN,
@@ -32,5 +34,6 @@ export default {
   port: PORT,
   host: HOST,
   url: HOST_URL,
+  env: ENV,
   firebaseConfig,
 };
