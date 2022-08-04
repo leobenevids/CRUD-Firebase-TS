@@ -17,6 +17,19 @@ export const movieCreateValidation = () => {
         return true;
       }),
     body("description").isString().withMessage("A descrição é obrigatória."),
+    body("genre").isArray().withMessage("O gênero é obrigatório"),
+    body("casting").isArray().withMessage("O elenco deve ter ao menos 1 ator"),
+    body("release")
+      .isNumeric()
+      .withMessage("O ano de lançamento precisa ser um número.")
+      .isLength({ min: 4 })
+      .withMessage("O ano de lançamento deve ser um ano válido.")
+      .custom((value: number) => {
+        if (value < 1890 || value > 2099) {
+          throw new Error("O ano de lançamento deve ser um ano válido.");
+        }
+        return true;
+      }),
     body("director").isString().withMessage("O nome do diretor é obrigatório."),
     body("poster").isURL().withMessage("A imagem precisa ser uma URL."),
   ];

@@ -135,3 +135,120 @@
 [34m[39m
 2022-08-03 11:24:55 - [34mhttp[39m: [34mPOST /api/movie 404 149 - 1.069 ms[39m
 [34m[39m
+2022-08-04 10:05:42 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:09:20 - [34mhttp[39m: [34mGET /api/movies 200 701 - 979.384 ms[39m
+[34m[39m
+2022-08-04 10:09:36 - [34mhttp[39m: [34mDELETE /api/movies/O24o9eAV7gkSYY0iTUrm 200 41 - 517.012 ms[39m
+[34m[39m
+2022-08-04 10:09:42 - [34mhttp[39m: [34mGET /api/movies 200 563 - 304.065 ms[39m
+[34m[39m
+2022-08-04 10:10:01 - [34mhttp[39m: [34mDELETE /api/movies/Tq7WbSxgQDWiuRwxFYrM 200 41 - 277.696 ms[39m
+[34m[39m
+2022-08-04 10:10:10 - [34mhttp[39m: [34mGET /api/movies 200 236 - 286.955 ms[39m
+[34m[39m
+2022-08-04 10:10:20 - [34mhttp[39m: [34mDELETE /api/movies/bJ9JwZdkYREq2WaCeTPZ 200 41 - 275.834 ms[39m
+[34m[39m
+2022-08-04 10:10:24 - [34mhttp[39m: [34mGET /api/movies 200 99 - 260.330 ms[39m
+[34m[39m
+2022-08-04 10:10:32 - [34mhttp[39m: [34mDELETE /api/movies/sJjFQlw8o6IncqssQlHB 200 41 - 271.558 ms[39m
+[34m[39m
+2022-08-04 10:12:13 - [34mhttp[39m: [34mPOST /api/movies 201 38 - 380.258 ms[39m
+[34m[39m
+2022-08-04 10:12:17 - [34mhttp[39m: [34mGET /api/movies 200 421 - 292.417 ms[39m
+[34m[39m
+2022-08-04 10:14:22 - [34mhttp[39m: [34mPOST /api/movies 201 38 - 350.933 ms[39m
+[34m[39m
+2022-08-04 10:14:28 - [34mhttp[39m: [34mGET /api/movies 200 697 - 307.471 ms[39m
+[34m[39m
+2022-08-04 10:16:59 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:17:18 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:17:30 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:17:41 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:17:44 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:17:52 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:17:53 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:18:22 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:18:29 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:20:21 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:20:26 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:20:27 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:20:29 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:20:35 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:20:38 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:20:44 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:20:56 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:21:00 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:21:04 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:21:33 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:21:34 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:21:52 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:21:59 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:22:01 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:22:20 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:22:49 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:23:00 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:30:35 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:30:40 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:31:19 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:36:14 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:36:27 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:36:30 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:36:34 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:36:50 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:36:54 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:36:57 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:36:59 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:37:06 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:37:12 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:37:19 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:37:21 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:37:23 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:37:29 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:37:57 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:37:59 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:16 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:18 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:20 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:22 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:23 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:31 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:35 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:36 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:47 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:52 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:39:55 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:44:19 - [34mhttp[39m: [34mPUT /api/movies/Detroit%20Rock%20City 422 98 - 14.371 ms[39m
+[34m[39m
+2022-08-04 10:44:44 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:44:46 - [34mhttp[39m: [34mPUT /api/movies/Detroit%20Rock%20City 422 98 - 12.387 ms[39m
+[34m[39m
+2022-08-04 10:45:22 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 10:45:24 - [34mhttp[39m: [34mPUT /api/movies/Detroit%20Rock%20City 422 98 - 11.289 ms[39m
+[34m[39m
+2022-08-04 11:22:02 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 11:22:08 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 11:22:12 - [31merror[39m: [31mErro no sistema: 5 NOT_FOUND: No document to update: projects/movies-a5dbe/databases/(default)/documents/movies/Detroit Rock City[39m
+2022-08-04 11:22:12 - [34mhttp[39m: [34mPUT /api/movies/Detroit%20Rock%20City 500 58 - 1210.008 ms[39m
+[34m[39m
+2022-08-04 11:22:53 - [34mhttp[39m: [34mPUT /api/movies/UWLFaEoRB3K1ATk5A0QD 200 40 - 471.308 ms[39m
+[34m[39m
+2022-08-04 11:22:59 - [34mhttp[39m: [34mGET /api/movies 200 805 - 345.075 ms[39m
+[34m[39m
+2022-08-04 11:26:59 - [34mhttp[39m: [34mPUT /api/movies/9s3kgbhXMlfdpaH9bIns 422 124 - 2.285 ms[39m
+[34m[39m
+2022-08-04 11:27:24 - [34mhttp[39m: [34mPUT /api/movies/9s3kgbhXMlfdpaH9bIns 422 64 - 0.929 ms[39m
+[34m[39m
+2022-08-04 11:29:08 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 11:29:13 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 11:29:15 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 11:29:17 - [32minfo[39m: [32mApp is running on http://localhost:8080[39m
+2022-08-04 11:29:19 - [34mhttp[39m: [34mPUT /api/movies/9s3kgbhXMlfdpaH9bIns 422 71 - 13.100 ms[39m
+[34m[39m
+2022-08-04 11:29:28 - [34mhttp[39m: [34mPUT /api/movies/9s3kgbhXMlfdpaH9bIns 422 72 - 5.330 ms[39m
+[34m[39m
+2022-08-04 11:29:35 - [34mhttp[39m: [34mPUT /api/movies/9s3kgbhXMlfdpaH9bIns 422 72 - 2.643 ms[39m
+[34m[39m
+2022-08-04 11:29:49 - [34mhttp[39m: [34mPUT /api/movies/9s3kgbhXMlfdpaH9bIns 200 40 - 1016.630 ms[39m
+[34m[39m
+2022-08-04 11:30:16 - [34mhttp[39m: [34mGET /api/movies 200 843 - 339.161 ms[39m
+[34m[39m

@@ -39,6 +39,9 @@ export const getAllMovies = async (req: Request, res: Response) => {
         doc.data().title,
         doc.data().rating,
         doc.data().description,
+        doc.data().genre,
+        doc.data().casting,
+        doc.data().release,
         doc.data().director,
         doc.data().poster
       );
